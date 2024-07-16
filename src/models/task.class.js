@@ -1,3 +1,7 @@
 export class Task {
-name = 'Task';
+name = '';
+description='';
+completed = false;
+level = 'Urgent';
+
 }
